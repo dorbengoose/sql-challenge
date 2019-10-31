@@ -1,2 +1,5 @@
 # sql-challenge
 SQL HOMEWORK
+
+
+RICARDO REYNOSO RAMOS
